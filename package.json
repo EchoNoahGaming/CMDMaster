@@ -1,0 +1,12 @@
+{
+  "name": "CMDMaster",
+  "description": "CMDMaster",
+  "version": "0.0.0",
+  "main": "CMDMaster.py",
+  "scripts": {
+    "start": "py CMDMaster.py"
+  },
+  "dependencies": {
+    "discord.py": "11.1.0",
+  }
+}
