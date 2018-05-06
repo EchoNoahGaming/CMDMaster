@@ -1,0 +1,1 @@
+worker: py CMDMaster.py
